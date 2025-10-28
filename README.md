@@ -39,10 +39,13 @@
 
 #### 🧩 **Codeforces Rating Graph**
 ![Codeforces Graph](https://codeforces-readme-stats.vercel.app/api/card?username=Piyush_3436&theme=dark)
+<p align="center">
+  <img src=Codeforces_Piyush.png>
+</p>
 
 #### ⚡ **AtCoder Rating Progress**
 <p align="center">
-  <img src="https://github.com/Piyush-0718/Piyush-0718/blob/main/fa82e710-cc92-4b90-9be9-08846d3366b1.png" alt="AtCoder Rating Graph" width="600"/>
+  <img src=Atcoder_Piyush.png>
 </p>
 
 
